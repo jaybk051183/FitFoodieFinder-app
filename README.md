@@ -1,12 +1,22 @@
 # Deelopdracht 4. Installatiehandleiding
 
-"Mijn gezonde eetgids", designed by Kailash Bhaggoe
+"Fit Foodie Finder", designed by Kailash Bhaggoe
 
 ## Inleiding
 
-Mijn gezonde eetgids, zoals de naam het al aanduidt, is een gids voor mensen die het dagelijks lastig vinden om te zoeken naar de juiste voeding die een gezonde lifestyle ondersteunen. De applicatie dient mensen met overgewicht en een ongezonde leefpatroon bewuster te maken van de opties in voeding
+Fit Foodie Finder is een tool die gebruikers helpt gezonde en gecalculeerde keuzes te
+maken met betrekking tot hun dieet. De applicatie biedt verschillende recept opties op
+basis van de voedingsvoorkeuren van de gebruiker en bevat een maaltijdplanner die het
+aantal calorieën berekend dat nodig is om af te vallen of aan te komen op basis van de
+persoonlijke kenmerken en het niveau van fysieke activiteit van de gebruiker. Het bevat
+ook een calorie tracker waarmee gebruikers hun gewenste calorie-inname kunnen
+invoeren en totalen kunnen bijhouden. Door deze bronnen op één plek samen te
+brengen, hoopt Fit Foodie Finder mensen met overgewicht en ondergewicht te helpen
+zich meer bewust te worden van het caloriegehalte van hun voedsel en weloverwogen
+keuzes te maken over hun dieet.
 
-![screenshot](src/assets/Homepage.png)
+![homepage](https://user-images.githubusercontent.com/98492016/210878971-940e8981-04c6-47f3-8d7e-0241d0a3086f.png)
+
 
 ## Applicatie starten
 
