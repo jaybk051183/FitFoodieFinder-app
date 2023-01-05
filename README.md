@@ -15,7 +15,7 @@ brengen, hoopt Fit Foodie Finder mensen met overgewicht en ondergewicht te helpe
 zich meer bewust te worden van het caloriegehalte van hun voedsel en weloverwogen
 keuzes te maken over hun dieet.
 
-![homepage](https://user-images.githubusercontent.com/98492016/210878971-940e8981-04c6-47f3-8d7e-0241d0a3086f.png)
+![screenshot](src/assets/Homepage.png)
 
 
 ## Applicatie starten
