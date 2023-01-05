@@ -1,0 +1,43 @@
+.comments-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2rem 3rem 5rem #aaa;
+    border-style: outset;
+}
+
+.comment-btn-send,.comment-btn-reset {
+    width: 35%;
+    border-radius: 3px;
+    padding: 2px 8px;
+    font-size: small;
+    cursor: pointer;
+}
+
+.comment-btn-send {
+    background-color: #007bff;
+    color: white;
+}
+
+.comment-btn-reset {
+    background-color: #dc3545;
+    color: white;
+}
+
+.comment-btn-send:hover {
+    background-color:#d4d2d2;
+}
+
+.comment-btn-reset:hover {
+    background-color: #d4d2d2;
+}
+
+.posts-comment-box {
+    font-size: small;
+    font-style: italic;
+}
+
+
+
+
