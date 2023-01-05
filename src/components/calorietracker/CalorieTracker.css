@@ -1,0 +1,15 @@
+.calorie-app-container {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
+
+
+

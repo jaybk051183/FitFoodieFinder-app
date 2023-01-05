@@ -1,0 +1,108 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #57de67;
+    box-shadow: 0 6px 8px rgba(22, 79, 30, 0.62);
+}
+
+.list-nav-elements {
+    list-style-type: none;
+    padding: 0 16px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 620px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-style:normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 23px;
+    align-items: center;
+    text-align: center;
+    color: #5E615E;
+    text-shadow: 0 6px 8px
+    rgba(22, 79, 30, 0.62);
+}
+
+.list-nav-elements li{
+    text-decoration-line: underline;
+}
+
+ul li:hover {
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5 );
+    border-radius: 3px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 325px;
+    padding:1px;
+    margin-top: 5px;
+}
+
+.logo-container img {
+    width: 70px;
+    height: 70px;
+    margin-right: 6px;
+    margin-left: 6px;
+    border-radius: 7px;
+    box-shadow: 0 6px 8px
+    rgba(22, 79, 30, 0.62);
+}
+
+.logo-text{
+    width: 196px;
+    height: 48px;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #5E615E;
+    text-shadow: 0 6px 8px
+    rgba(22, 79, 30, 0.62);
+}
+
+.logo-text:hover{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5 );
+    border-radius: 5px;
+}
+
+.logout-button {
+    border-radius: 5px;
+    border: none;
+    padding: 2px 8px;
+    background-color: #a4b0a5;
+    color: #5E615E;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+
+.logout-button:hover, .logout-button:focus, .logout-button:active {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5 );
+}
+
+.logged-in-user{
+    font-style: italic;
+    font-size: medium;
+}
+
+.logged-in-user-status{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+

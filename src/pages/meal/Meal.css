@@ -1,0 +1,46 @@
+.meal-plan {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.calorie-input-section {
+    width: 64rem;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #d3d3d3;
+    border-radius: 0.5rem;
+    margin-bottom: 5rem;
+    box-shadow: 2rem 3rem 5rem #aaa;
+    position: relative;
+}
+
+.meal-input {
+    padding: 1rem 1rem;
+    height:40%;
+    width: 80%;
+    color: #555555;
+    border-color: #ffffff;
+    border-radius: 4px;
+    border-style: outset;
+    font-size:medium;
+    margin-left:6px;
+    margin-right: 6px;
+}
+
+.meal-button {
+    width: 80%;
+    height: 42%;
+    text-transform: uppercase;
+    background-color:#c7c35b ;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+.meal-button:hover {
+    cursor: pointer;
+    background-color: #d4d2d2;
+}

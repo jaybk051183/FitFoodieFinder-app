@@ -1,0 +1,29 @@
+.main-footer{
+    color:#5E615E;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    width: 100%;
+}
+
+.list-unstyled {
+    font-style:normal;
+    font-weight: normal;
+    font-size: 9px;
+    line-height: 14px;
+    text-decoration-line: none;
+    color: #5E615E;
+    text-shadow: 0 6px 8px
+    rgba(22, 79, 30, 0.62);
+}
+
+.col-terms {
+    color:#5E615E
+}

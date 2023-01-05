@@ -1,0 +1,52 @@
+.calorie-result h3, .calorie-result p {
+    display: inline;
+    padding-right: 5px;
+    font-style: italic;
+}
+
+.calorie-result p{
+    font-size: 15px;
+    color:#5E615E;
+}
+
+small a{
+    color: azure;
+}
+
+small a:hover{
+    color: lightslategrey;
+}
+
+.table{
+    border-collapse: collapse;
+    margin: 23px 0;
+    font-size: 1.80rem;
+    min-width: 370px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+}
+
+.table thead tr {
+    background-color: #57de67;
+    color: #5E615E;
+    text-align: left;
+    font-weight: bold;
+}
+
+.table th,
+.table td {
+    padding: 11px 12px;
+}
+
+.table tbody td {
+    border-bottom: 1px solid lightgrey;
+    color: #5E615E;
+}
+
+.table tbody td:nth-of-type(even){
+    background-color: #f3f3f3;
+}
+
+.table tbody tr:last-of-type {
+    border-bottom: 2px solid #57de67;
+}

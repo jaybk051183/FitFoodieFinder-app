@@ -1,0 +1,11 @@
+label{
+    padding-right: 10px;
+}
+
+.form-inputs {
+    padding-top: 10px;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 10px;
+}
